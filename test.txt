@@ -1,3 +1,5 @@
 Bu bir test amaçlıdır
 test dosyasıdır
 github için yapılmıştır
+// şuan ikinci test commit çalışıyor
+Artık ikinci test committe bulunuyoruz.
