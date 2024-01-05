@@ -1,0 +1,3 @@
+Bu bir test amaçlıdır
+test dosyasıdır
+github için yapılmıştır
